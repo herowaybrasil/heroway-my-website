@@ -18,4 +18,5 @@
 body,
 html {
   font: 16px "Montserrat", sans-serif;
+  scroll-behavior: smooth;
 }

@@ -46,7 +46,7 @@
   text-decoration: none;
 
   padding: 13px 23px 13px 23px;
-  margin-bottom: 85px;
+  cursor: pointer;
 }
 
 .button-send:hover {
